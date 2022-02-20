@@ -1,2 +1,2 @@
-# The-love-Calculator
+# Dice game
 Initial use of DOM on html
